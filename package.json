@@ -1,0 +1,13 @@
+{
+  "name": "face-regonition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "face-ap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "face-ap.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
